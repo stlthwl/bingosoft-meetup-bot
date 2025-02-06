@@ -1,0 +1,7 @@
+aiogram~=3.17.0
+fastapi~=0.115.7
+python-dotenv~=1.0.1
+uvicorn
+psycopg2~=2.9.10
+pydantic~=2.10.6
+httpx~=0.28.1
